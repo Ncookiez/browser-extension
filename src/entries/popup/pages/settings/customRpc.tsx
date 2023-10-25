@@ -33,7 +33,7 @@ const chainLabel = ({ chainId }: { chainId: ChainId }) => {
   return chainLabels.join(', ');
 };
 
-export function SettingsNetworks() {
+export function SettingsNetworksCustomRPC() {
   const navigate = useRainbowNavigate();
   const {
     userChains,

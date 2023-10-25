@@ -98,6 +98,9 @@
         "toggle_explainer": "Switch your app to Testnet Mode to only view balances and transactions on supported Testnets.",
         "shortcut_title": "Show Testnet shortcut",
         "shortcut_toggle_explainer": "Add a shortcut for Testnet Mode in the menu on the wallet screen for easy access."
+      },
+      "custom_rpc": {
+        "title": "Custom RPC"
       }
     },
     "privacy_and_security": {
